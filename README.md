@@ -1,12 +1,10 @@
 
 # Console.log('Hello World!!');  <img src="https://tenor.com/view/waving-hi-hello-emoji-wave-gif-11366012.gif" alt="emoji mano saludando" width="40px"/> 
-
 <br>
 
-Hola!, soy programador web **FullStack**!! 👨‍💻
+<h2 align="center">Soy programador web **FullStack**!! 👨‍💻</h3>
 <br>
-<br>
-Actualmente tengo 23 años resido en Mendoza, Argentina y mi pasatiempos es el desarrollo de videos juegos!
+<p>Actualmente tengo 23 años resido en Mendoza, Argentina y mi pasatiempos es el desarrollo de videos juegos!</p>
 
 #### Tengo conocimientos sobre:
 
@@ -15,17 +13,18 @@ Actualmente tengo 23 años resido en Mendoza, Argentina y mi pasatiempos es el d
  <img src="img/html2.svg" alt="HTML" width="40px"/>
 
  <img src="img/css.svg" alt="CSS" width="40px" />
- <img src="" alt="Ejs" width="24px" height="40px"/>
+ <img src="img/ejs.png" alt="Ejs" width="40px"/>
 
  <img src="img/react.svg" alt="React" width="40px" />
 
- <img src="" alt="Java Script" width="40px" />
+ <img src="img/js.png" alt="Java Script" width="40px" />
 
- <img src="img/node.svg" alt="Node.js" width="40px" />
+ <img src="img/nodejs.png" alt="Node.js" width="40px" />
 
- <img src="" alt="Express" width="24px" />
+ <img src="img/express.jpg" alt="Express" width="40px" />
 
-<img src="" alt="MySQL" width="24px" />
+<img src="img/mysql.png" alt="MySQL" width="40px" />
+ <img src="img/github.png" alt="Github" width="40px" />
   
 </p>
 <br>
