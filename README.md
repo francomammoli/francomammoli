@@ -11,21 +11,21 @@
 
  <p align="center">
 
- <img src="img/html2.svg" alt="HTML" width="40px"/>
+ <img src="img/html2.svg" alt="HTML" width="30px"/>
 
- <img src="img/css.svg" alt="CSS" width="40px" />
- <img src="img/ejs.png" alt="Ejs" width="40px"/>
+ <img src="img/css.svg" alt="CSS" width="30px" />
+ <img src="img/ejs.png" alt="Ejs" width="30px"/>
 
- <img src="img/react.svg" alt="React" width="40px" />
+ <img src="img/react.svg" alt="React" width="30px" />
 
- <img src="img/js.png" alt="Java Script" width="40px" />
+ <img src="img/js.png" alt="Java Script" width="30px" />
 
- <img src="img/nodejs.png" alt="Node.js" width="40px" />
+ <img src="img/nodejs.png" alt="Node.js" width="30px" />
 
- <img src="img/express.jpg" alt="Express" width="40px" />
+ <img src="img/express.jpg" alt="Express" width="45px" />
 
-<img src="img/mysql.png" alt="MySQL" width="40px" />
- <img src="img/github.png" alt="Github" width="40px" />
+<img src="img/mysql.png" alt="MySQL" width="30px" />
+ <img src="img/github.png" alt="Github" width="30px" />
   
 </p>
 <br>
