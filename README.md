@@ -5,10 +5,11 @@
 <h2 align="center">Soy programador web **FullStack**!! 👨‍💻</h3>
 <br>
 <p>Actualmente tengo 23 años resido en Mendoza, Argentina y mi pasatiempos es el desarrollo de videos juegos!</p>
+<br>
 
-#### Tengo conocimientos sobre:
+<h3 align="center">Tengo conocimientos sobre: <h3/>
 
- <p align="left">
+ <p align="center">
 
  <img src="img/html2.svg" alt="HTML" width="40px"/>
 
