@@ -4,7 +4,7 @@
 
 <h2 align="center">Soy programador web **FullStack**!! 👨‍💻</h3>
 <br>
-<p>Actualmente tengo 23 años resido en Mendoza, Argentina y mi pasatiempos es el desarrollo de videos juegos!</p>
+<p align="center">Actualmente tengo 23 años resido en Mendoza, Argentina y mi pasatiempos es el desarrollo de videos juegos!</p>
 <br>
 
 <h3 align="center">Tengo conocimientos sobre: <h3/>
