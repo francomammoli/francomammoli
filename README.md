@@ -1,7 +1,10 @@
 
-# console.log('Hello World!!👋'); 
+# Console.log('Hello World!!');  <img src="https://tenor.com/view/waving-hi-hello-emoji-wave-gif-11366012.gif" alt="emoji mano saludando" width="40px"/> 
 
-Hola!, soy programador web FullStack!  <img src="img/device_desktop_working_code.svg" width="25"> , tengo 23 años y mi pasatiempos es el desarrollo de videos juegos!
+<br>
+
+Hola!, soy programador web FullStack!! <img src="https://tenor.com/view/cat-computer-typing-fast-gif-5368357.gif" width="50"> <br>
+Actualmente tengo 23 años resido en Mendoza, Argentina y mi pasatiempos es el desarrollo de videos juegos!
 
 #### Tengo conocimientos sobre:
 
@@ -23,12 +26,13 @@ Hola!, soy programador web FullStack!  <img src="img/device_desktop_working_code
 <img src="" alt="MySQL" width="24px" height="24px"/>
   
 </p>
+<br>
                                                                                                                                           
-#### ¿Hablamos?☕️
+#### ¿Hablamos? <img align="center" src="img/food_coffee-1.svg" alt="cafecito" height="25" width="25"/>
 - <a href="https://www.linkedin.com/in/franco-mammoli-0a4455142/" target="blank"><img align="center" src="img/logo_linkedin.svg" alt="Franco Mammoli" height="30" width="30" />LinkedIn</a>
 - <a href="francomammoli@hotmail.com" target="blank"><img align="center" src="img/logo_email_mail.svg" alt="correo personal" height="30" width="30" />francomammoli@hotmail.com</a>
-
+<br>
                                                                                                                  
-
+<img src="https://tenor.com/view/ice-age-sid-call-me-give-me-your-number-give-me-a-call-gif-16699821.gif" height="180" />
 
 
