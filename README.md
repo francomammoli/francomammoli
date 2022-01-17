@@ -1,7 +1,7 @@
 
-# console.log('Hello World!!👋'); ![](img/device_desktop_working_code.svg)
+# console.log('Hello World!!👋'); 
 
-Hola!, soy programador web FullStack 💻, tengo 23 años y mi pasatiempos es el desarrollo de videos juegos!
+Hola!, soy programador web FullStack!  <img src="img/device_desktop_working_code.svg" width="25"> , tengo 23 años y mi pasatiempos es el desarrollo de videos juegos!
 
 #### Tengo conocimientos sobre:
 
@@ -25,7 +25,7 @@ Hola!, soy programador web FullStack 💻, tengo 23 años y mi pasatiempos es el
 </p>
                                                                                                                                           
 #### ¿Hablamos?☕️
-- <a href="https://www.linkedin.com/in/franco-mammoli-0a4455142/" target="blank"><img align="center" src="https://img.icons8.com/office/16/000000/linkedin.png" alt="Franco Mammoli" height="30" width="30" />LinkedIn</a>
+- <a href="https://www.linkedin.com/in/franco-mammoli-0a4455142/" target="blank"><img align="center" src="img/logo_linkedin.svg" alt="Franco Mammoli" height="30" width="30" />LinkedIn</a>
 - <a href="francomammoli@hotmail.com" src="https://img.icons8.com/dusk/64/000000/email.png" alt="correo personal"/> </a>
 - francomammoli@hotmail.com
 
