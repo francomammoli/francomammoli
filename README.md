@@ -3,7 +3,7 @@
 
 <br>
 
-Hola!, soy programador web **FullStack**!! 
+Hola!, soy programador web **FullStack**!! 👨‍💻
 <br>
 <br>
 Actualmente tengo 23 años resido en Mendoza, Argentina y mi pasatiempos es el desarrollo de videos juegos!
@@ -12,16 +12,16 @@ Actualmente tengo 23 años resido en Mendoza, Argentina y mi pasatiempos es el d
 
  <p align="left">
 
- <img src="" alt="HTML" width="24px" height="24px"/>
+ <img src="img/html2.svg" alt="HTML" width="24px" height="24px"/>
 
- <img src="" alt="CSS" width="24px" height="24px"/>
+ <img src="img/css.svg" alt="CSS" width="24px" height="24px"/>
  <img src="" alt="Ejs" width="24px" height="24px"/>
 
- <img src="" alt="React" width="24px" height="24px"/>
+ <img src="img/react.svg" alt="React" width="24px" height="24px"/>
 
  <img src="" alt="Java Script" width="24px" height="24px"/>
 
- <img src="" alt="Node.js" width="24px" height="24px"/>
+ <img src="img/node.svg" alt="Node.js" width="24px" height="24px"/>
 
  <img src="" alt="Express" width="24px" height="24px"/>
 
