@@ -26,10 +26,8 @@ Hola!, soy programador web FullStack!  <img src="img/device_desktop_working_code
                                                                                                                                           
 #### ¿Hablamos?☕️
 - <a href="https://www.linkedin.com/in/franco-mammoli-0a4455142/" target="blank"><img align="center" src="img/logo_linkedin.svg" alt="Franco Mammoli" height="30" width="30" />LinkedIn</a>
-- <a href="francomammoli@hotmail.com" src="https://img.icons8.com/dusk/64/000000/email.png" alt="correo personal"/> </a>
-- francomammoli@hotmail.com
+- <a href="francomammoli@hotmail.com" target="blank"><img align="center" src="img/logo_email_mail.svg" alt="correo personal" height="30" width="30" />francomammoli@hotmail.com</a>
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
                                                                                                                  
 
 
