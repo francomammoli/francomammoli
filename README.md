@@ -12,20 +12,20 @@ Actualmente tengo 23 años resido en Mendoza, Argentina y mi pasatiempos es el d
 
  <p align="left">
 
- <img src="img/html2.svg" alt="HTML" width="24px" height="24px"/>
+ <img src="img/html2.svg" alt="HTML" width="40px"/>
 
- <img src="img/css.svg" alt="CSS" width="24px" height="24px"/>
- <img src="" alt="Ejs" width="24px" height="24px"/>
+ <img src="img/css.svg" alt="CSS" width="40px" />
+ <img src="" alt="Ejs" width="24px" height="40px"/>
 
- <img src="img/react.svg" alt="React" width="24px" height="24px"/>
+ <img src="img/react.svg" alt="React" width="40px" />
 
- <img src="" alt="Java Script" width="24px" height="24px"/>
+ <img src="" alt="Java Script" width="40px" />
 
- <img src="img/node.svg" alt="Node.js" width="24px" height="24px"/>
+ <img src="img/node.svg" alt="Node.js" width="40px" />
 
- <img src="" alt="Express" width="24px" height="24px"/>
+ <img src="" alt="Express" width="24px" />
 
-<img src="" alt="MySQL" width="24px" height="24px"/>
+<img src="" alt="MySQL" width="24px" />
   
 </p>
 <br>
