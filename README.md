@@ -3,7 +3,9 @@
 
 <br>
 
-Hola!, soy programador web FullStack!! <img src="https://tenor.com/view/cat-computer-typing-fast-gif-5368357.gif" width="50"> <br>
+Hola!, soy programador web **FullStack**!! 
+<br>
+<br>
 Actualmente tengo 23 años resido en Mendoza, Argentina y mi pasatiempos es el desarrollo de videos juegos!
 
 #### Tengo conocimientos sobre:
@@ -31,7 +33,6 @@ Actualmente tengo 23 años resido en Mendoza, Argentina y mi pasatiempos es el d
 #### ¿Hablamos? <img align="center" src="img/food_coffee-1.svg" alt="cafecito" height="25" width="25"/>
 - <a href="https://www.linkedin.com/in/franco-mammoli-0a4455142/" target="blank"><img align="center" src="img/logo_linkedin.svg" alt="Franco Mammoli" height="30" width="30" />LinkedIn</a>
 - <a href="francomammoli@hotmail.com" target="blank"><img align="center" src="img/logo_email_mail.svg" alt="correo personal" height="30" width="30" />francomammoli@hotmail.com</a>
-<br>
                                                                                                                  
 <img src="https://tenor.com/view/ice-age-sid-call-me-give-me-your-number-give-me-a-call-gif-16699821.gif" height="180" />
 
