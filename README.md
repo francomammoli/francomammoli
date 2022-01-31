@@ -29,7 +29,7 @@
 </p>
 <br>
                                                                                                                                           
-#### ¿Hablamos? <img align="center" src="img/food_coffee-1.svg" alt="cafecito" height="25" width="25"/>
+> #### ¿Hablamos? <img align="center" src="img/food_coffee-1.svg" alt="cafecito" height="25" width="25"/>
 - <a href="https://www.linkedin.com/in/franco-mammoli-0a4455142/" target="blank"><img align="center" src="img/logo_linkedin.svg" alt="Franco Mammoli" height="30" width="30" />LinkedIn</a>
 - <a href="francomammoli@hotmail.com" target="blank"><img align="center" src="img/logo_email_mail.svg" alt="correo personal" height="30" width="30" />francomammoli@hotmail.com</a>
                                                                                                                  
