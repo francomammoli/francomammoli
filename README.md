@@ -1,5 +1,4 @@
-
-# Console.log('Hello World');  <img src="https://tenor.com/view/waving-hi-hello-emoji-wave-gif-11366012.gif" alt="emoji mano saludando" width="40px"/> 
+<h1 align="center"> Console.log('Hello World'); <img src="https://tenor.com/view/waving-hi-hello-emoji-wave-gif-11366012.gif" alt="emoji mano saludando" width="40px"/></h1>  
 <br>
 
 <h2 align="center">Soy programador web FullStack!! 👨‍💻</h3>
