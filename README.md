@@ -1,15 +1,13 @@
-<h1 align="center"> Console.log('Hello World'); <img src="https://tenor.com/view/waving-hi-hello-emoji-wave-gif-11366012.gif" alt="emoji mano saludando" width="40px"/></h1>  
+<h1 align="center"> Bienvenido a mi repositorio! <img src="https://tenor.com/view/waving-hi-hello-emoji-wave-gif-11366012.gif" alt="emoji mano saludando" width="40px"/></h1>  
+<br>
+<p>🌱Hola soy Franco Mammoli actualmente tengo 23 años resido en Mendoza-Argentina, soy programador web FullStack como desarrollador utilizo Javascript, React, NodeJS, Express, Sequalize, entre otros. Mi pasatiempos es el desarrollo de videos juegos!</p>
+<br/>
+Me gusta aprender y afrontar desafíos que me permitan mejorar profesionalmente. 
 <br>
 
-<h2 align="center">Soy programador web FullStack!! 👨‍💻</h3>
-<br>
-<p align="center"> 🌱Actualmente tengo 23 años resido en Mendoza, Argentina y mi pasatiempos es el desarrollo de videos juegos!</p>
-<br>
+<h3>Tengo conocimientos sobre: <h3/>
 
-<h3 align="center">Tengo conocimientos sobre: <h3/>
-
- <p align="center">
-
+ <p>
  <img src="img/html2.svg" alt="HTML" width="30px"/>
 
  <img src="img/css.svg" alt="CSS" width="30px" />
@@ -35,4 +33,4 @@
                                                                                                                  
 <img src="https://tenor.com/view/ice-age-sid-call-me-give-me-your-number-give-me-a-call-gif-16699821.gif" height="180" />
 
-
+ 
