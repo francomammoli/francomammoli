@@ -13,7 +13,7 @@ Me gusta aprender y afrontar desafíos que me permitan mejorar profesionalmente.
 
 <br>
 
-WEB:   <p align='right'> RESPONSIVE: </p>
+**WEB &nbsp; / &nbsp; RESPONSIVE**
 <p><img src="img/funko2.png" /> </p>
 
 ## Pagina web realizada para un restaurante:
