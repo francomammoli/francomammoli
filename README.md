@@ -8,7 +8,7 @@ Me gusta aprender y afrontar desafíos que me permitan mejorar profesionalmente.
 <br>
 
 # 💡 Algunos Proyectos:
-## Pagina Funko Pops:
+## Pagina web Funko Pops:
  Un catálogo de productos donde el usuario pueda agregar, editar (precio, stock, descuento, cuotas), eliminar y visualizar los productos consumidos desde una api propia.
 
 <br>
@@ -27,6 +27,9 @@ WEB:   <p align='right'> RESPONSIVE: </p>
 - Express
 - Ejs
 - MySQL
+<img src="img/morfi.png" />
+<br>
+<br>
 
 > ## ¿Hablamos? <img align="center" src="img/food_coffee-1.svg" alt="cafecito" height="25" width="25"/>
 - <a href="https://www.linkedin.com/in/franco-mammoli-0a4455142/" target="blank"><img align="center" src="img/logo_linkedin.svg" alt="Franco Mammoli" height="30" width="30" />LinkedIn</a>
