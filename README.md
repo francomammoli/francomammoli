@@ -8,7 +8,7 @@ Me gusta aprender y afrontar desafíos que me permitan mejorar profesionalmente.
 <br>
 
 # 💡 Algunos Proyectos:
-## Pagina web Funko Pops:
+## :small_blue_diamond: Pagina web Funko Pops:
  Un catálogo de productos donde el usuario pueda agregar, editar (precio, stock, descuento, cuotas), eliminar y visualizar los productos consumidos desde una api propia.
 
 <br>
@@ -18,17 +18,19 @@ Me gusta aprender y afrontar desafíos que me permitan mejorar profesionalmente.
 
 <br>
 
-## Pagina web realizada para un restaurante:
-  En la web podemos: 
+## :small_blue_diamond: Pagina web realizada para un restaurante:
+  :computer: En la web podemos: 
 - Registrarnos/ logearnos
 - Editar, Modificar, Eliminar producto del menu (CRUD) <br>
  <br>
-  Tecnologias usadas: <br>
+  🛠️ Tecnologias usadas: <br>
+  <br>
   
 - Node.js
 - Express
 - Ejs
 - MySQL
+- Sequelize
 <img src="img/morfi.png" />
 <br>
 <br>
@@ -36,6 +38,7 @@ Me gusta aprender y afrontar desafíos que me permitan mejorar profesionalmente.
 > ## ¿Hablamos? <img align="center" src="img/food_coffee-1.svg" alt="cafecito" height="25" width="25"/>
 - <a href="https://www.linkedin.com/in/franco-mammoli-0a4455142/" target="blank"><img align="center" src="img/logo_linkedin.svg" alt="Franco Mammoli" height="30" width="30" />LinkedIn</a>
 - <a href="francomammoli@hotmail.com" target="blank"><img align="center" src="img/logo_email_mail.svg" alt="correo personal" height="30" width="30" />francomammoli@hotmail.com</a>
+- ![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=francomammoli)   <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
                                                                                                                  
 <img src="https://tenor.com/view/ice-age-sid-call-me-give-me-your-number-give-me-a-call-gif-16699821.gif" height="180" />
 
