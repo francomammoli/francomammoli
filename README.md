@@ -10,8 +10,23 @@ Me gusta aprender y afrontar desafíos que me permitan mejorar profesionalmente.
 # 💡 Algunos Proyectos:
 ## Pagina Funko Pops:
  Un catálogo de productos donde el usuario pueda agregar, editar (precio, stock, descuento, cuotas), eliminar y visualizar los productos consumidos desde una api propia.
- 
-<p><img src="img/funko.png" /> </p>
+
+<br>
+
+WEB:   <p align='right'> RESPONSIVE: </p>
+<p><img src="img/funko2.png" /> </p>
+
+## Pagina web realizada para un restaurante:
+  En la web podemos: 
+- Registrarnos/ logearnos
+- Editar, Modificar, Eliminar producto del menu (CRUD) <br>
+ <br>
+  Tecnologias usadas: <br>
+  
+- Node.js
+- Express
+- Ejs
+- MySQL
 
 > ## ¿Hablamos? <img align="center" src="img/food_coffee-1.svg" alt="cafecito" height="25" width="25"/>
 - <a href="https://www.linkedin.com/in/franco-mammoli-0a4455142/" target="blank"><img align="center" src="img/logo_linkedin.svg" alt="Franco Mammoli" height="30" width="30" />LinkedIn</a>
