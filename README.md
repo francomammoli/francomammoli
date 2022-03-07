@@ -7,11 +7,12 @@ Me gusta aprender y afrontar desafíos que me permitan mejorar profesionalmente.
 <br>
 <br>
 
-## Algunos de mis proyectos:
- >Pagina Funko Pops (Un catálogo de productos donde el usuario pueda agregar, editar (precio, stock, descuento, cuotas), eliminar y visualizar los productos consumidos desde una api)
- >
- <img align="left" src="img/A1.png" alt"funko" height="100" width="100" />
-                                                                                                                                          
+# 💡 Algunos Proyectos:
+## Pagina Funko Pops:
+ Un catálogo de productos donde el usuario pueda agregar, editar (precio, stock, descuento, cuotas), eliminar y visualizar los productos consumidos desde una api propia.
+
+
+ 
 > ## ¿Hablamos? <img align="center" src="img/food_coffee-1.svg" alt="cafecito" height="25" width="25"/>
 - <a href="https://www.linkedin.com/in/franco-mammoli-0a4455142/" target="blank"><img align="center" src="img/logo_linkedin.svg" alt="Franco Mammoli" height="30" width="30" />LinkedIn</a>
 - <a href="francomammoli@hotmail.com" target="blank"><img align="center" src="img/logo_email_mail.svg" alt="correo personal" height="30" width="30" />francomammoli@hotmail.com</a>
