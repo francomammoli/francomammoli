@@ -11,6 +11,9 @@ Me gusta aprender y afrontar desafíos que me permitan mejorar profesionalmente.
 ## :small_blue_diamond: Pagina web Piedras Mendoza:
  https://piedrasmendoza.com/ 
 <br>
+## :small_blue_diamond: Generador de preguntas online:
+https://www.textsumm.com/generador-de-preguntas
+
 ## :small_blue_diamond: Pagina web Funko Pops:
  Un catálogo de productos donde el usuario pueda agregar, editar (precio, stock, descuento, cuotas), eliminar y visualizar los productos consumidos desde una api propia.
 
