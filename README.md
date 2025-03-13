@@ -1,7 +1,7 @@
 <img src="img/nino.png" width="230" align='right' />
 <h1 align="center"> Bienvenido a mi repositorio! <img src="https://tenor.com/view/waving-hi-hello-emoji-wave-gif-11366012.gif" alt="emoji mano saludando" width="40px"/></h1>  
 <br>
-<p>🌱Hola, soy Franco Mammoli tengo 24 años resido en Mendoza-Argentina, soy programador web FullStack como desarrollador utilizo Javascript, React, NodeJS, Express, Sequalize, entre otros. Mi pasatiempo es el desarrollo de videos juegos!</p>
+<p>🌱Hola, soy Franco Mammoli tengo 26 años resido en Mendoza-Argentina, soy programador web FullStack como desarrollador utilizo Javascript, React, NodeJS, Express, Sequalize, entre otros. Mi pasatiempo es el desarrollo de videos juegos!</p>
 <br/>
 Me gusta aprender y afrontar desafíos que me permitan mejorar profesionalmente. 
 <br>
